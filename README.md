@@ -1,1 +1,1 @@
-# virtual netcoreconf 2 | 2020
+# Virtual NetcoreConf 2 | 2020
